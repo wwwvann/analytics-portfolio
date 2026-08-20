@@ -31,7 +31,7 @@ and system analysis.
 - [AS-IS / TO-BE Case](ссылка)
 
 ### Case Studies
-- [Alfa Championship](ссылка)
+- [Alfa Championship](https://github.com/wwwvann/alfa-start-360)
 
 ## Education
 
