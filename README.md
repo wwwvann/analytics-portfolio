@@ -21,15 +21,6 @@ and system analysis.
 
 ## Projects
 
-### Product Analytics
-- [Bank Product Case](ссылка)
-
-### Data Analytics
-- [E-commerce Analysis](ссылка)
-
-### System Analysis
-- [AS-IS / TO-BE Case](ссылка)
-
 ### Case Studies
 - [Alfa Championship](https://github.com/wwwvann/alfa-start-360)
 
