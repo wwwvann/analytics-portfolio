@@ -23,7 +23,7 @@ and system analysis.
 
 ### Case Studies
 - [Alfa Championship](https://github.com/wwwvann/alfa-start-360)
-- [T-bank-cases] (https://github.com/wwwvann/T-bank-cases)
+- [T-bank-cases](https://github.com/wwwvann/T-bank-cases)
 
 ## Education
 
